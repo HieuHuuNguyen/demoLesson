@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "hi",
+      "type": "com.example.democonfigurationproperties.MyAppProperties",
+      "sourceType": "com.example.democonfigurationproperties.MyAppProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "hi.email",
+      "type": "java.lang.String",
+      "sourceType": "com.example.democonfigurationproperties.MyAppProperties"
+    },
+    {
+      "name": "hi.google-analytics-id",
+      "type": "java.lang.String",
+      "sourceType": "com.example.democonfigurationproperties.MyAppProperties"
+    }
+  ],
+  "hints": []
+}
